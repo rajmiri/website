@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding:0;
+}
+main{
+    font-size: larger;
+    display: flex;
+    background-color:rgba(78, 100, 129, 0.596);
+    padding: 30px;
+    justify-content:space-evenly;
+}
+.idcard{
+    height: 100px;
+    width: fit-content;
+
+}
+.idback{
+    height: 100px;
+    width: fit-content;
+}
+.nav_bar ul{
+
+    height: 40px;
+    width: 100%;
+    align-items: center;
+    color:beige;
+    list-style-type: none;
+    display:flex;
+    justify-content: space-evenly;
+    background:#365563;
+}
+
+.boxes{
+    display: flex;
+    padding: 20px;
+    background-color:rgb(223, 220, 220);
+    justify-content: space-evenly;
+}
+.box1{
+    height: 400px;
+    width: 35%;
+    /* border: 2px solid black; */
+    background-color: whitesmoke;
+
+}
+.box2{
+    height: 400px;
+    width: 35%;
+    border: 2px solid black;
+    background-color: whitesmoke;
+}
+.footbar{
+    margin-top: 5px;
+    align-items: center;
+    display: flex;
+    background-color: #365563;
+    text-align: center;
+    justify-content: space-evenly;
+    font-size:xx-large
+    
+}
+.foot{
+    margin-top: 30px;
+    color: beige;
+    font-size: medium;
+}
