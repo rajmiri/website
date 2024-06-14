@@ -1,3 +1,3 @@
 its my first git repository
 <br>
-Author - Rajkumar
+Author - Rajkumar web developer
